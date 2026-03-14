@@ -76,7 +76,8 @@ else:
 
 ### Output:
 
-
+<img width="886" height="438" alt="image" src="https://github.com/user-attachments/assets/f6a7b7b6-9006-492e-9f3e-3c654e7adc47" />
+<img width="866" height="548" alt="image" src="https://github.com/user-attachments/assets/22709fae-5c0b-4c21-9269-8689d7eb6fa0" />
 
 
 
